@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/wt2.590e1950.jpg"
   },
   {
-    "revision": "2ffb34077ed59c85a72a",
-    "url": "/static/css/main.456a965a.chunk.css"
+    "revision": "9a1a5d56eba968d727f9",
+    "url": "/static/css/main.868b6b09.chunk.css"
   },
   {
     "revision": "978cee08eb2d5ce33565",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/static/media/wt1.fd92670d.jpg"
   },
   {
-    "revision": "2ffb34077ed59c85a72a",
-    "url": "/static/js/main.2ffb3407.chunk.js"
+    "revision": "9a1a5d56eba968d727f9",
+    "url": "/static/js/main.9a1a5d56.chunk.js"
   },
   {
     "revision": "c19bcb16d235c8ac898066fa4fff0c81",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/static/media/large-restaurant.5bd10b45.jpg"
   },
   {
-    "revision": "d38d1ac387c068cefeb1db88d5dfda4c",
+    "revision": "e49508fa74a7523daf2b925addebd829",
     "url": "/index.html"
   }
 ];

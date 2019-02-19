@@ -1,1 +1,0 @@
-# wildtigerthai.github.io
